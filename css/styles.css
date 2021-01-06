@@ -53,15 +53,27 @@ hr{
 }
 
 .top-cloud{
-    position: relative;
-    top: 100px;
-    left: 200px;
+    width: 15%;
+    margin: auto;
+    margin-right: 100px;
 }
 
+
 .bottom-cloud{
-    position: absolute;
-    bottom: 150px;
-    left: 200px;
+    width: 15%;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.dragon-pic{
+    width: 100%;
+    margin: auto;
+}
+
+.pics{
+    width: 50%;
+    margin: auto;
 }
 
 .skill-row{
