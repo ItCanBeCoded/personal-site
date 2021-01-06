@@ -22,6 +22,10 @@ h3{
     color: #ffb26b;
 }
 
+img{
+    width: 100%   
+}
+
 hr{
     border: dotted #939b62 6px;
     border-bottom: none;
